@@ -4,7 +4,7 @@
 
 - ⌨️ Iniciante no mundo de desenvolvimento/programção
 
-- 🖥️ Estou aprendendo HTML, CSS e Javascript, com o foco em front-end
+- 🖥️ No momento estou aprendendo HTML, CSS e Javascript, com o foco em front-end
 
 ##
 
