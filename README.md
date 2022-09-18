@@ -1,4 +1,4 @@
-# Olá, mundo!
+# Hello, world!
 
 - 🖋️ Hi, meu nome é Deivison Delmiro, estudante de desenvolvimento web
 
