@@ -4,7 +4,7 @@
 
 - ⌨️ Iniciante no mundo de desenvolvimento/programção
 
-- 🖥️ No momento estou aprendendo Javascript, com o indo para o lado do front-end
+- 🖥️ No momento estou aprendendo Javascript, indo mais para o lado do front-end
 
 ##
 
