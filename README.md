@@ -1,10 +1,10 @@
 # Hello, world!
 
-- 🖋️ Hi, meu nome é Deivison Delmiro, estudante de desenvolvimento web
+- 🖋️ Hi, sou o Deivison Delmiro
 
 - ⌨️ Iniciante no mundo de desenvolvimento/programção
 
-- 🖥️ No momento estou aprendendo HTML, CSS e Javascript, com o foco em front-end
+- 🖥️ No momento estou aprendendo Javascript, com o indo para o lado do front-end
 
 ##
 
