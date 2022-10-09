@@ -2,7 +2,7 @@
 
 - 🖋️ Hi, sou o Deivison Delmiro
 
-- ⌨️ Iniciante no mundo de desenvolvimento/programção
+- ⌨️ Iniciante no mundo de desenvolvimento/programação
 
 - 🖥️ No momento estou aprendendo Javascript, indo mais para o lado do front-end
 
