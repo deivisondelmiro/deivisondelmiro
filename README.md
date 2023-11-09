@@ -1,10 +1,8 @@
 # Hello, world!
 
-- 🖋️ Hi, sou o Deivison Delmiro
+- 🖋️ Olá, sou Deivison Delmiro
 
-- ⌨️ Entrando no mundo de desenvolvimento/programação
-
-- 🖥️ No momento estou aprendendo Javascript, indo mais para o lado do front-end
+- 📚 Estudante de Sistemas de Informação
 
 ##
 
