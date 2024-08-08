@@ -1,11 +1,9 @@
-#### Hello, world!
-
+### Hello, world!
+##
 - 🖋️ Sou Deivison Delmiro
 
 - 📚 Estudante de Sistemas de Informação
-
-#### Principais Tecnologias
-
+##
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -20,7 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-#### Contato
+##
+### Contato
 
 <div>
     <a href="https://instagram.com/deivisondelmiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
